@@ -3,7 +3,7 @@
     <title>jailbreak-tutorials</title>
     <link href="https://JailbreakTutorials.github.io/feed.xml" rel="self" />
     <link href="https://JailbreakTutorials.github.io" />
-    <updated>2018-06-24T09:55:28+02:00</updated>
+    <updated>2018-06-24T15:55:21+02:00</updated>
     <author>
         <name>Jailbreak iOS &amp; tvOS Tutorials</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://JailbreakTutorials.github.io/jailbreak-news-ios-11-3-1-jailbreak-will-be-released-soon-electra/</id>
             <category term="Jailbreak News"/>
 
-        <updated>2018-06-24T09:28:01+02:00</updated>
+        <updated>2018-06-24T15:48:44+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://JailbreakTutorials.github.io/media/posts/6/Jailbreak-News-iOS-11.3.1-Jailbreak-will-be-released-soon-Electra.jpg" alt="[Jailbreak News] iOS 11.3.1 Jailbreak will be released soon - Electra" />
@@ -32,13 +32,13 @@
         <author>
             <name>Jailbreak iOS &amp; tvOS Tutorials</name>
         </author>
-        <link href="https://JailbreakTutorials.github.io/Jailbreak-tvOS-10.2.2-Apple-TV-Guide-greeng0blin/"/>
-        <id>https://JailbreakTutorials.github.io/Jailbreak-tvOS-10.2.2-Apple-TV-Guide-greeng0blin/</id>
+        <link href="https://JailbreakTutorials.github.io/Jailbreak-tvOS-10-2-2-Apple-TV-Guide-greeng0blin/"/>
+        <id>https://JailbreakTutorials.github.io/Jailbreak-tvOS-10-2-2-Apple-TV-Guide-greeng0blin/</id>
             <category term="Tutorial"/>
             <category term="Jailbreak Tutorial"/>
             <category term="Apple TV Jailbreak Guide"/>
 
-        <updated>2018-06-23T20:06:01+02:00</updated>
+        <updated>2018-06-24T15:48:20+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://JailbreakTutorials.github.io/media/posts/5/Jailbreak-tvOS-10.2.2-Apple-TV-Tutorial-greeng0blin.png" alt="" />
@@ -52,11 +52,11 @@
         <author>
             <name>Jailbreak iOS &amp; tvOS Tutorials</name>
         </author>
-        <link href="https://JailbreakTutorials.github.io/Jailbreak-Tweak-Retry-failed-Face-ID-unlocking-attempts-automatically-with-PearlRetry/"/>
-        <id>https://JailbreakTutorials.github.io/Jailbreak-Tweak-Retry-failed-Face-ID-unlocking-attempts-automatically-with-PearlRetry/</id>
+        <link href="https://JailbreakTutorials.github.io/jailbreak-tweak-retry-failed-face-id-unlocking-attempts-automatically-with-pearlretry/"/>
+        <id>https://JailbreakTutorials.github.io/jailbreak-tweak-retry-failed-face-id-unlocking-attempts-automatically-with-pearlretry/</id>
             <category term="Jailbreak Apps &amp; Tweaks"/>
 
-        <updated>2018-06-23T19:48:34+02:00</updated>
+        <updated>2018-06-24T15:31:09+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://JailbreakTutorials.github.io/media/posts/4/Jailbreak-Tweak-App-PearlRetry.jpg" alt="[Jailbreak Tweak] Retry failed Face ID unlocking attempts automatically with PearlRetry" />
@@ -66,41 +66,41 @@
         <content></content>
     </entry>
     <entry>
-        <title>Jailbreak iOS 10 - iOS 10.2 iPad Pro Tutorial</title>
+        <title>Jailbreak iOS 10 - iOS 10.2 iPad Pro Tutorial [Yalu]</title>
         <author>
             <name>Jailbreak iOS &amp; tvOS Tutorials</name>
         </author>
-        <link href="https://JailbreakTutorials.github.io/jailbreak-ios-10-ios-102-ipad-pro-tutorial/"/>
-        <id>https://JailbreakTutorials.github.io/jailbreak-ios-10-ios-102-ipad-pro-tutorial/</id>
+        <link href="https://JailbreakTutorials.github.io/jailbreak-ios-10-ios-10-2-ipad-pro-tutorial-yalu/"/>
+        <id>https://JailbreakTutorials.github.io/jailbreak-ios-10-ios-10-2-ipad-pro-tutorial-yalu/</id>
             <category term="iPad Jailbreak Tutorials"/>
             <category term="Tutorial"/>
             <category term="Jailbreak Tutorial"/>
             <category term="Jailbreak News"/>
             <category term="Jailbreak"/>
 
-        <updated>2018-06-23T18:54:28+02:00</updated>
+        <updated>2018-06-24T15:47:41+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://JailbreakTutorials.github.io/media/posts/2/Jailbreak-iOS-10-iOS-10.2-iPhone-Tutorial-yalu-10.2-beta-tutorial.png" alt="Jailbreak iOS 10 - iOS 10.2 iPhone Tutorial - Yalu 10.2 beta Tutorial" />
+                        <img src="https://JailbreakTutorials.github.io/media/posts/2/Jailbreak-iOS-10-iOS-10.2-iPhone-Tutorial-yalu-10.2-beta-tutorial.png" alt="Jailbreak iOS 10 - iOS 10.2 iPad Pro Tutorial - Yalu 10.2 beta Tutorial" />
                     Jailbreak iOS 10 - iOS 10.2 iPad Pro Tutorial with Yalu Jailbreak for: iPad Pro, running iOS 10.0-10.2 You need: The Yalu beta application, in .ipa format. 1) Download Cydia Impactor to your computer. 2) Download yalu102 Beta to your computer. 3) Launch Cydia Impactor and connect your device to your computer.
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Jailbreak iOS 10 - iOS 10.2 iPhone Tutorial</title>
+        <title>Jailbreak iOS 10 - iOS 10.2 iPhone Tutorial [Yalu]</title>
         <author>
             <name>Jailbreak iOS &amp; tvOS Tutorials</name>
         </author>
-        <link href="https://JailbreakTutorials.github.io/jailbreak-ios-10-ios-102-iphone-tutorial/"/>
-        <id>https://JailbreakTutorials.github.io/jailbreak-ios-10-ios-102-iphone-tutorial/</id>
+        <link href="https://JailbreakTutorials.github.io/jailbreak-ios-10-ios-10-2-iphone-tutorial-yalu/"/>
+        <id>https://JailbreakTutorials.github.io/jailbreak-ios-10-ios-10-2-iphone-tutorial-yalu/</id>
             <category term="iPhone Jailbreak Tutorials"/>
             <category term="iPhone Jailbreak"/>
             <category term="Tutorial"/>
             <category term="Jailbreak Tutorial"/>
             <category term="Jailbreak"/>
 
-        <updated>2018-06-24T09:54:45+02:00</updated>
+        <updated>2018-06-24T15:46:41+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://JailbreakTutorials.github.io/media/posts/1/Jailbreak-iOS-10-iOS-10.2-iPhone-Tutorial-yalu-10.2-beta-tutorial.png" alt="Jailbreak iOS 10 - iOS 10.2 iPhone Tutorial - Yalu 10.2 beta Tutorial" />
