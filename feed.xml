@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>jailbreak-tutorials</title>
+    <link href="https://JailbreakTutorials.github.io/feed.xml" rel="self" />
+    <link href="https://JailbreakTutorials.github.io" />
+    <updated>2018-06-24T08:17:46+02:00</updated>
+    <author>
+        <name>Jailbreak iOS &amp; tvOS Tutorials</name>
+    </author>
+    <id>https://JailbreakTutorials.github.io</id>
+
+    <entry>
+        <title>Jailbreak tvOS 10.2.2 Apple TV Guide [greeng0blin]</title>
+        <author>
+            <name>Jailbreak iOS &amp; tvOS Tutorials</name>
+        </author>
+        <link href="https://JailbreakTutorials.github.io/Jailbreak-tvOS-10.2.2-Apple-TV-Guide-greeng0blin/"/>
+        <id>https://JailbreakTutorials.github.io/Jailbreak-tvOS-10.2.2-Apple-TV-Guide-greeng0blin/</id>
+            <category term="Tutorial"/>
+            <category term="Jailbreak Tutorial"/>
+            <category term="Apple TV Jailbreak Guide"/>
+
+        <updated>2018-06-23T20:06:01+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://JailbreakTutorials.github.io/media/posts/5/Jailbreak-tvOS-10.2.2-Apple-TV-Tutorial-greeng0blin.png" alt="" />
+                    Jailbreak tvOS 10.2.2 Apple TV Guide [greeng0blin]:1) Head over to the official nitoTV website and download greeng0blin. You don’t need to download the nitoTV installer as it’s bundled inside greeng0blin. 2) Connect your Apple TV 4 to your computer via the USB-C port on the back. You’ll need a USB-C&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>[Jailbreak Tweak] Retry failed Face ID unlocking attempts automatically with PearlRetry</title>
+        <author>
+            <name>Jailbreak iOS &amp; tvOS Tutorials</name>
+        </author>
+        <link href="https://JailbreakTutorials.github.io/Jailbreak-Tweak-Retry-failed-Face-ID-unlocking-attempts-automatically-with-PearlRetry/"/>
+        <id>https://JailbreakTutorials.github.io/Jailbreak-Tweak-Retry-failed-Face-ID-unlocking-attempts-automatically-with-PearlRetry/</id>
+            <category term="Jailbreak Apps &amp; Tweaks"/>
+
+        <updated>2018-06-23T19:48:34+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://JailbreakTutorials.github.io/media/posts/4/Jailbreak-Tweak-App-PearlRetry.jpg" alt="[Jailbreak Tweak] Retry failed Face ID unlocking attempts automatically with PearlRetry" />
+                    Face ID is an incredibly convenient way of unlocking your iPhone X… that is, when it works. The modern security feature sometimes skips out on us when we need it the most, and retrying it requires you to follow cumbersome steps. Fortunately, iOS developer gilshahar7 has released a new free jailbreak&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Jailbreak iOS 10 - iOS 10.2 iPad Pro Tutorial</title>
+        <author>
+            <name>Jailbreak iOS &amp; tvOS Tutorials</name>
+        </author>
+        <link href="https://JailbreakTutorials.github.io/jailbreak-ios-10-ios-102-ipad-pro-tutorial/"/>
+        <id>https://JailbreakTutorials.github.io/jailbreak-ios-10-ios-102-ipad-pro-tutorial/</id>
+            <category term="iPad Jailbreak Tutorials"/>
+            <category term="Tutorial"/>
+            <category term="Jailbreak Tutorial"/>
+            <category term="Jailbreak News"/>
+            <category term="Jailbreak"/>
+
+        <updated>2018-06-23T18:54:28+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://JailbreakTutorials.github.io/media/posts/2/Jailbreak-iOS-10-iOS-10.2-iPhone-Tutorial-yalu-10.2-beta-tutorial.png" alt="Jailbreak iOS 10 - iOS 10.2 iPhone Tutorial - Yalu 10.2 beta Tutorial" />
+                    Jailbreak iOS 10 - iOS 10.2 iPad Pro Tutorial with Yalu Jailbreak for: iPad Pro, running iOS 10.0-10.2 You need: The Yalu beta application, in .ipa format. 1) Download Cydia Impactor to your computer. 2) Download yalu102 Beta to your computer. 3) Launch Cydia Impactor and connect your device to your computer.
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Jailbreak iOS 10 - iOS 10.2 iPhone Tutorial</title>
+        <author>
+            <name>Jailbreak iOS &amp; tvOS Tutorials</name>
+        </author>
+        <link href="https://JailbreakTutorials.github.io/jailbreak-ios-10-ios-102-iphone-tutorial/"/>
+        <id>https://JailbreakTutorials.github.io/jailbreak-ios-10-ios-102-iphone-tutorial/</id>
+            <category term="iPhone Jailbreak Tutorials"/>
+            <category term="iPhone Jailbreak"/>
+            <category term="Tutorial"/>
+            <category term="Jailbreak Tutorial"/>
+            <category term="Jailbreak"/>
+
+        <updated>2018-06-23T19:37:35+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://JailbreakTutorials.github.io/media/posts/1/Jailbreak-iOS-10-iOS-10.2-iPhone-Tutorial-yalu-10.2-beta-tutorial.png" alt="Jailbreak iOS 10 - iOS 10.2 iPhone Tutorial - Yalu 10.2 beta Tutorial" />
+                    Jailbreak iOS 10 - iOS 10.2 iPhone Tutorial with Yalu Jailbreak for: iPhone 6s(+), iPhone SE, and iPad Pro, running iOS 10.0-10.2 No other devices are supported yet! You need: Cydia Impactor app for Mac, Windows, or Linux. The Yalu beta application, in .ipa format. 1) Download Cydia&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+</feed>
