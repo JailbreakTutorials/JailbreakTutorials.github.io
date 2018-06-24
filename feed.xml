@@ -3,12 +3,30 @@
     <title>jailbreak-tutorials</title>
     <link href="https://JailbreakTutorials.github.io/feed.xml" rel="self" />
     <link href="https://JailbreakTutorials.github.io" />
-    <updated>2018-06-24T08:35:14+02:00</updated>
+    <updated>2018-06-24T09:22:04+02:00</updated>
     <author>
         <name>Jailbreak iOS &amp; tvOS Tutorials</name>
     </author>
     <id>https://JailbreakTutorials.github.io</id>
 
+    <entry>
+        <title>[Jailbreak News] iOS 11.3.1 Jailbreak will be released soon - Electra</title>
+        <author>
+            <name>Jailbreak iOS &amp; tvOS Tutorials</name>
+        </author>
+        <link href="https://JailbreakTutorials.github.io/jailbreak-news-ios-11-3-1-jailbreak-will-be-released-soon-electra/"/>
+        <id>https://JailbreakTutorials.github.io/jailbreak-news-ios-11-3-1-jailbreak-will-be-released-soon-electra/</id>
+            <category term="Jailbreak News"/>
+
+        <updated>2018-06-24T09:21:19+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://JailbreakTutorials.github.io/media/posts/6/Jailbreak-News-iOS-11.3.1-Jailbreak-will-be-released-soon-Electra.jpg" alt="[Jailbreak News] iOS 11.3.1 Jailbreak will be released soon - Electra" />
+                    [Jailbreak News] iOS 11.3.1 Jailbreak will be released soon - Electra It is confirmed that the Electra iOS 11.3.1 jailbreak is “now fully complete” and will be released soon The Electra iOS 11.3.1 jailbreak will be released as soon as the initial remount code is stable. This comes&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Jailbreak tvOS 10.2.2 Apple TV Guide [greeng0blin]</title>
         <author>
