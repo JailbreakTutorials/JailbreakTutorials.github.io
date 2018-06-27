@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://JailbreakTutorials.github.io/Jailbreak-News-iOS-11.4-and-iOS-12-Beta-Jailbreak-demo-release-S0rryMyBad/",
+            "url": "https://JailbreakTutorials.github.io/Jailbreak-News-iOS-11.4-and-iOS-12-Beta-Jailbreak-demo-release-S0rryMyBad/",
+            "title": "[Jailbreak News] iOS 11.4 and iOS 12 Beta Jailbreak demo release [S0rryMyBad]",
+            "summary": "Security researcher and hacker \"S0rryMyBad\" released a video demo of a web-based Jailbreak for iOS 11.4 and iOS 12 Beta. The user just needs to visit a website and tap on the \"jailbreak go\" button to initiate the jailbreak process, which also installs Cydia. Cydia&hellip;",
+            "image": "https://JailbreakTutorials.github.io/media/posts/7/Jailbreak-News-iOS-11.4-and-iOS-12-Beta-Jailbreak-demo-released-S0rryMyBad.png",
+            "author": {
+                "name": "Jailbreak iOS &amp; tvOS Tutorials"
+            },
+            "tags": [
+                   "Jailbreak News"
+            ],
+            "date_published": "2018-06-27T13:07:09+02:00",
+            "date_modified": "2018-06-27T13:21:35+02:00"
+        },
+        {
             "id": "https://JailbreakTutorials.github.io/jailbreak-news-ios-11-3-1-jailbreak-will-be-released-soon-electra/",
             "url": "https://JailbreakTutorials.github.io/jailbreak-news-ios-11-3-1-jailbreak-will-be-released-soon-electra/",
             "title": "[Jailbreak News] iOS 11.3.1 Jailbreak will be released soon - [Electra]",

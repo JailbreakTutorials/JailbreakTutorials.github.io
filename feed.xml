@@ -3,12 +3,30 @@
     <title>jailbreak-tutorials</title>
     <link href="https://JailbreakTutorials.github.io/feed.xml" rel="self" />
     <link href="https://JailbreakTutorials.github.io" />
-    <updated>2018-06-26T17:39:51+02:00</updated>
+    <updated>2018-06-27T13:22:39+02:00</updated>
     <author>
         <name>Jailbreak iOS &amp; tvOS Tutorials</name>
     </author>
     <id>https://JailbreakTutorials.github.io</id>
 
+    <entry>
+        <title>[Jailbreak News] iOS 11.4 and iOS 12 Beta Jailbreak demo release [S0rryMyBad]</title>
+        <author>
+            <name>Jailbreak iOS &amp; tvOS Tutorials</name>
+        </author>
+        <link href="https://JailbreakTutorials.github.io/Jailbreak-News-iOS-11.4-and-iOS-12-Beta-Jailbreak-demo-release-S0rryMyBad/"/>
+        <id>https://JailbreakTutorials.github.io/Jailbreak-News-iOS-11.4-and-iOS-12-Beta-Jailbreak-demo-release-S0rryMyBad/</id>
+            <category term="Jailbreak News"/>
+
+        <updated>2018-06-27T13:21:35+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://JailbreakTutorials.github.io/media/posts/7/Jailbreak-News-iOS-11.4-and-iOS-12-Beta-Jailbreak-demo-released-S0rryMyBad.png" alt="[Jailbreak News] iOS 11.4 and iOS 12 Beta Jailbreak demo release [S0rryMyBad]" />
+                    Security researcher and hacker "S0rryMyBad" released a video demo of a web-based Jailbreak for iOS 11.4 and iOS 12 Beta. The user just needs to visit a website and tap on the "jailbreak go" button to initiate the jailbreak process, which also installs Cydia. Cydia&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>[Jailbreak News] iOS 11.3.1 Jailbreak will be released soon - [Electra]</title>
         <author>
