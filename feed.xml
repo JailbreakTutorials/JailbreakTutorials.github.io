@@ -3,7 +3,7 @@
     <title>jailbreak-tutorials</title>
     <link href="https://JailbreakTutorials.github.io/feed.xml" rel="self" />
     <link href="https://JailbreakTutorials.github.io" />
-    <updated>2018-06-28T14:06:46+02:00</updated>
+    <updated>2018-06-28T19:46:03+02:00</updated>
     <author>
         <name>Jailbreak iOS &amp; tvOS Tutorials</name>
     </author>
@@ -52,8 +52,6 @@
         </author>
         <link href="https://JailbreakTutorials.github.io/jailbreak-tvos-10-2-2-apple-tv-guide-greeng0blin/"/>
         <id>https://JailbreakTutorials.github.io/jailbreak-tvos-10-2-2-apple-tv-guide-greeng0blin/</id>
-            <category term="Tutorial"/>
-            <category term="Jailbreak Tutorial"/>
             <category term="Apple TV Jailbreak Guide"/>
 
         <updated>2018-06-24T16:57:34+02:00</updated>
@@ -91,9 +89,6 @@
         <link href="https://JailbreakTutorials.github.io/jailbreak-ios-10-ios-10-2-ipad-pro-tutorial-yalu/"/>
         <id>https://JailbreakTutorials.github.io/jailbreak-ios-10-ios-10-2-ipad-pro-tutorial-yalu/</id>
             <category term="iPad Jailbreak Tutorials"/>
-            <category term="Tutorial"/>
-            <category term="Jailbreak Tutorial"/>
-            <category term="Jailbreak"/>
 
         <updated>2018-06-27T15:15:59+02:00</updated>
             <summary>
@@ -112,10 +107,6 @@
         <link href="https://JailbreakTutorials.github.io/jailbreak-ios-10-ios-10-2-iphone-tutorial-yalu/"/>
         <id>https://JailbreakTutorials.github.io/jailbreak-ios-10-ios-10-2-iphone-tutorial-yalu/</id>
             <category term="iPhone Jailbreak Tutorials"/>
-            <category term="iPhone Jailbreak"/>
-            <category term="Tutorial"/>
-            <category term="Jailbreak Tutorial"/>
-            <category term="Jailbreak"/>
 
         <updated>2018-06-24T15:46:41+02:00</updated>
             <summary>
