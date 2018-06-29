@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://JailbreakTutorials.github.io/Jailbreak-iOS-11-iOS-11.1.2-Tutorial-iPhone-Electra/",
+            "url": "https://JailbreakTutorials.github.io/Jailbreak-iOS-11-iOS-11.1.2-Tutorial-iPhone-Electra/",
+            "title": "Jailbreak iOS 11 - iOS 11.1.2 Tutorial - iPhone [Electra]",
+            "summary": "Jailbreak iOS 11 - iOS 11.1.2 Tutorial - iPhone [Electra]:Supported iOS 11 versions: Not supported iOS 11 versions: Supported iPhones: Step 1: Download Electra Jailbreak and Cydia Impactor Do not download Electra Jailbreak from other sites, because they could contain malware. Step 2: Install/Sideload Electra IPA using Cydia Impactor Troubleshooting:&hellip;",
+            "image": "https://JailbreakTutorials.github.io/media/posts/9/Jailbreak-iOS-11-iOS-11.1.2-Tutorial-iPhone-Electra.jpg",
+            "author": {
+                "name": "Jailbreak iOS &amp; tvOS Tutorials"
+            },
+            "tags": [
+                   "iPhone Jailbreak Tutorials"
+            ],
+            "date_published": "2018-06-29T08:32:29+02:00",
+            "date_modified": "2018-06-29T10:24:10+02:00"
+        },
+        {
             "id": "https://JailbreakTutorials.github.io/Jailbreak-News-iOS-11.3.1-Jailbreak-Release-Update-Electra/",
             "url": "https://JailbreakTutorials.github.io/Jailbreak-News-iOS-11.3.1-Jailbreak-Release-Update-Electra/",
             "title": "[Jailbreak News] iOS 11.3.1 Jailbreak Release Update - [Electra]",
