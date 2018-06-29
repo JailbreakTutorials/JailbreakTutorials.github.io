@@ -3,12 +3,30 @@
     <title>jailbreak-tutorials</title>
     <link href="https://JailbreakTutorials.github.io/feed.xml" rel="self" />
     <link href="https://JailbreakTutorials.github.io" />
-    <updated>2018-06-29T10:25:36+02:00</updated>
+    <updated>2018-06-29T10:41:24+02:00</updated>
     <author>
         <name>Jailbreak iOS &amp; tvOS Tutorials</name>
     </author>
     <id>https://JailbreakTutorials.github.io</id>
 
+    <entry>
+        <title>Jailbreak iOS 11 - iOS 11.1.2 Tutorial - iPad [Electra]</title>
+        <author>
+            <name>Jailbreak iOS &amp; tvOS Tutorials</name>
+        </author>
+        <link href="https://JailbreakTutorials.github.io/Jailbreak-iOS-11-iOS-11.1.2-Tutorial-iPad-Electra/"/>
+        <id>https://JailbreakTutorials.github.io/Jailbreak-iOS-11-iOS-11.1.2-Tutorial-iPad-Electra/</id>
+            <category term="iPad Jailbreak Tutorials"/>
+
+        <updated>2018-06-29T10:40:45+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://JailbreakTutorials.github.io/media/posts/10/Jailbreak-iOS-11-iOS-11.1.2-Tutorial-iPad-Electra.jpg" alt="Jailbreak iOS 11 - iOS 11.1.2 Tutorial - iPad [Electra]" />
+                    Jailbreak iOS 11 - iOS 11.1.2 Tutorial - iPad [Electra]:Supported iOS 11 versions: Not supported iOS 11 versions: Supported iPads: Step 1: Download Electra Jailbreak and Cydia Impactor Do not download Electra Jailbreak from other sites, because they could contain malware. Step 2: Install/Sideload Electra IPA using Cydia Impactor Troubleshooting: If&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Jailbreak iOS 11 - iOS 11.1.2 Tutorial - iPhone [Electra]</title>
         <author>
