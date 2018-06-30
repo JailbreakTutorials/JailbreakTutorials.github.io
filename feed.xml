@@ -3,12 +3,30 @@
     <title>jailbreak-tutorials</title>
     <link href="https://JailbreakTutorials.github.io/feed.xml" rel="self" />
     <link href="https://JailbreakTutorials.github.io" />
-    <updated>2018-06-30T06:17:02+02:00</updated>
+    <updated>2018-06-30T07:00:11+02:00</updated>
     <author>
         <name>Jailbreak iOS &amp; tvOS Tutorials</name>
     </author>
     <id>https://JailbreakTutorials.github.io</id>
 
+    <entry>
+        <title>[Jailbreak Tweak] PokeCall for Pokémon styled incoming call interface</title>
+        <author>
+            <name>Jailbreak iOS &amp; tvOS Tutorials</name>
+        </author>
+        <link href="https://JailbreakTutorials.github.io/jailbreak-tweak-pokecall-for-pokemon-styled-incoming-call-interface/"/>
+        <id>https://JailbreakTutorials.github.io/jailbreak-tweak-pokecall-for-pokemon-styled-incoming-call-interface/</id>
+            <category term="Jailbreak Apps &amp; Tweaks"/>
+
+        <updated>2018-06-30T06:45:24+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://JailbreakTutorials.github.io/media/posts/12/Jailbreak-Tweak-PokeCall-for-Pokemon-styled-incoming-call-interface-Screenshot-1.jpg" alt="[Jailbreak Tweak] PokeCall for Pokémon styled incoming call interface Screenshot 1" />
+                    The new Jailbreak Tweak PokeCall by iOS developer Frozen Penguin changes your iPhone’s incoming call interface to a look inspired by the classic Pokémon games. This is of how the Jailbreak Tweak PokeCall replaces the stock incoming call interface in iOS with a Pokémon look and feel. Cydia description: Pokémon styled call banner: You&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Jailbreak iOS 11 - iOS 11.1.2 Tutorial - iPod touch [Electra]</title>
         <author>
