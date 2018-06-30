@@ -3,12 +3,30 @@
     <title>jailbreak-tutorials</title>
     <link href="https://JailbreakTutorials.github.io/feed.xml" rel="self" />
     <link href="https://JailbreakTutorials.github.io" />
-    <updated>2018-06-30T07:00:11+02:00</updated>
+    <updated>2018-06-30T17:39:46+02:00</updated>
     <author>
         <name>Jailbreak iOS &amp; tvOS Tutorials</name>
     </author>
     <id>https://JailbreakTutorials.github.io</id>
 
+    <entry>
+        <title>[Jailbreak Tweak] Nine: iOS 9 look for notifications on iOS 11</title>
+        <author>
+            <name>Jailbreak iOS &amp; tvOS Tutorials</name>
+        </author>
+        <link href="https://JailbreakTutorials.github.io/Jailbreak-Tweak-Nine-iOS-9-look-notifications-iOS-11/"/>
+        <id>https://JailbreakTutorials.github.io/Jailbreak-Tweak-Nine-iOS-9-look-notifications-iOS-11/</id>
+            <category term="Jailbreak Apps &amp; Tweaks"/>
+
+        <updated>2018-06-30T17:29:37+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://JailbreakTutorials.github.io/media/posts/13/Jailbreak-Tweak-Nine-iOS-9-look-for-notifications-on-iOS-11-Screenshot-1.jpg" alt="[Jailbreak Tweak] Nine: iOS 9 look for notifications on iOS 11" />
+                    Jailbreak Tweak Nine makes your incoming iOS 11 notifications look more like iOS 9 notifications than. This includes also the banners you’d see while receiving notifications on the Home screen or inside of apps. Nine adds a preference pane to the Settings app where you can configure a&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>[Jailbreak Tweak] PokeCall for Pokémon styled incoming call interface</title>
         <author>
