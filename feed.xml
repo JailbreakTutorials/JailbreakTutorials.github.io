@@ -3,12 +3,30 @@
     <title>jailbreak-tutorials</title>
     <link href="https://JailbreakTutorials.github.io/feed.xml" rel="self" />
     <link href="https://JailbreakTutorials.github.io" />
-    <updated>2018-06-30T21:11:26+02:00</updated>
+    <updated>2018-07-02T05:57:23+02:00</updated>
     <author>
         <name>Jailbreak iOS &amp; tvOS Tutorials</name>
     </author>
     <id>https://JailbreakTutorials.github.io</id>
 
+    <entry>
+        <title>[Jailbreak News] iOS 11.3.1 Jailbreak Release - Delay Reasons - [Electra]</title>
+        <author>
+            <name>Jailbreak iOS &amp; tvOS Tutorials</name>
+        </author>
+        <link href="https://JailbreakTutorials.github.io/Jailbreak-News-iOS-11.3.1-Jailbreak-Release-Delay-Reasons-Electra/"/>
+        <id>https://JailbreakTutorials.github.io/Jailbreak-News-iOS-11.3.1-Jailbreak-Release-Delay-Reasons-Electra/</id>
+            <category term="Jailbreak News"/>
+
+        <updated>2018-07-02T05:56:38+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://JailbreakTutorials.github.io/media/posts/15/Jailbreak-News-iOS-11.3.1-Jailbreak-Release-Delay-Reasons-Electra.jpg" alt="[Jailbreak News] iOS 11.3.1 Jailbreak Release - Delay Reasons - [Electra]" />
+                    [Jailbreak News] iOS 11.3.1 Jailbreak Release - Delay Reasons - [Electra]Some reasons that explain the delay in the release of the Electra iOS 11.3.1 Jailbreak: According to Samg_is_a_Ninja the reason why the iOS 11.3.1 jailbreak hasn’t been released yet. Ian Beer, the security researcher at Google’s&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>[Jailbreak Tweak] BetterCCXI: Improves iOS 11&#x27;s Control Center</title>
         <author>
