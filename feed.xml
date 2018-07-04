@@ -3,7 +3,7 @@
     <title>jailbreak-tutorials</title>
     <link href="https://JailbreakTutorials.github.io/feed.xml" rel="self" />
     <link href="https://JailbreakTutorials.github.io" />
-    <updated>2018-07-04T12:28:25+02:00</updated>
+    <updated>2018-07-04T12:53:10+02:00</updated>
     <author>
         <name>Jailbreak iOS &amp; tvOS Tutorials</name>
     </author>
@@ -23,6 +23,26 @@
                 <![CDATA[
                         <img src="https://JailbreakTutorials.github.io/media/posts/17/Electra-iOS-11.3.1-Jailbreak-Will-Filter-Incompatible-Tweaks-in-Cydia.png" alt="Electra iOS 11.3.1 Jailbreak Will Filter Incompatible Tweaks in Cydia" />
                     While the iOS 11.3.1 Electra Jailbreak expected to be released soon, even with an announced delay (Reasons for the delayed release of the iOS 11.3.1 Electra Jailbreak), Electra team member CoolStar revealed “one of the surprises” that is going to come with the iOS 11.3.1 Electra Jailbreak. CoolStar says&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Save iOS 11.3.1 SHSH blobs Tutorial</title>
+        <author>
+            <name>Jailbreak iOS &amp; tvOS Tutorials</name>
+        </author>
+        <link href="https://JailbreakTutorials.github.io/Save-iOS-11.3.1-SHSH-blobs-Tutorial/"/>
+        <id>https://JailbreakTutorials.github.io/Save-iOS-11.3.1-SHSH-blobs-Tutorial/</id>
+            <category term="iPod touch Jailbreak Tutorials"/>
+            <category term="iPhone Jailbreak Tutorials"/>
+            <category term="iPad Jailbreak Tutorials"/>
+
+        <updated>2018-07-04T12:52:29+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://JailbreakTutorials.github.io/media/posts/16/Save-iOS-11.3.1-SHSH-blobs-Tutorial.jpeg" alt="Save iOS 11.3.1 SHSH blobs Tutorial" />
+                    Step by Step Guide to save iOS 11.3.1 SHSH blobs Tutorial:STEP 1: Get ECID STEP 2: Get Device Identifier STEP 3: Save iOS 11.3.1 SHSH Blobs Open the following link: https://tsssaver.1conan.com Paste the ECID you copied. Select your device type (iPhone, iPad or iPod touch). Next, enter your&hellip;
                 ]]>
             </summary>
         <content></content>
