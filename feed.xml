@@ -3,12 +3,30 @@
     <title>jailbreak-tutorials</title>
     <link href="https://JailbreakTutorials.github.io/feed.xml" rel="self" />
     <link href="https://JailbreakTutorials.github.io" />
-    <updated>2018-07-04T12:53:10+02:00</updated>
+    <updated>2018-07-05T07:50:51+02:00</updated>
     <author>
         <name>Jailbreak iOS &amp; tvOS Tutorials</name>
     </author>
     <id>https://JailbreakTutorials.github.io</id>
 
+    <entry>
+        <title>[Jailbreak News] iOS 11.3.1 Jailbreak Release &quot;in a few days&quot; - [Electra]</title>
+        <author>
+            <name>Jailbreak iOS &amp; tvOS Tutorials</name>
+        </author>
+        <link href="https://JailbreakTutorials.github.io/Jailbreak-News-iOS-11.3.1-Jailbreak-Release-in-a-few-days-Electra/"/>
+        <id>https://JailbreakTutorials.github.io/Jailbreak-News-iOS-11.3.1-Jailbreak-Release-in-a-few-days-Electra/</id>
+            <category term="Jailbreak News"/>
+
+        <updated>2018-07-05T07:49:58+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://JailbreakTutorials.github.io/media/posts/18/Jailbreak-News-iOS-11.3.1-Jailbreak-Release-in-a-few-days-Electra-1.jpg" alt="[Jailbreak News] iOS 11.3.1 Jailbreak Release &quot;in a few days&quot; - [Electra]" />
+                    The iOS 11.3.1 Electra Jailbreak will be released in a few days, according to an announcement by the Electra Jailbreak Tool developer team After a delay, because of stability issues (reasons for the delay of the Electra iOS 11.3.1 Jailbreak release), it seems that the Jaibreak&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Electra iOS 11.3.1 Jailbreak Will Filter Incompatible Tweaks in Cydia</title>
         <author>
