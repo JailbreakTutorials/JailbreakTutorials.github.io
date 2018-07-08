@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://JailbreakTutorials.github.io/Jailbreak-iOS-11.3.1-Tutorial-iPad-Electra/",
+            "url": "https://JailbreakTutorials.github.io/Jailbreak-iOS-11.3.1-Tutorial-iPad-Electra/",
+            "title": "Jailbreak iOS 11.3.1 Tutorial - iPad [Electra]",
+            "summary": "Jailbreak iOS 11.3.1 Tutorial - iPad [Electra]:Supported iOS 11 versions: Not supported iOS 11 versions: Supported iPads: Recommended: Enable Airplane Mode, Disable WiFi, Disable Siri, and Reboot your iOS Device. Step 1: Download Electra Jailbreak and Cydia Impactor Coolstar released two versions of the Electra Jailbreak:&hellip;",
+            "image": "https://JailbreakTutorials.github.io/media/posts/20/Jailbreak-iOS-11.3.1-Tutorial-iPad-Electra.jpg",
+            "author": {
+                "name": "Jailbreak iOS &amp; tvOS Tutorials"
+            },
+            "tags": [
+                   "iPad Jailbreak Tutorials"
+            ],
+            "date_published": "2018-07-08T17:15:34+02:00",
+            "date_modified": "2018-07-08T17:27:12+02:00"
+        },
+        {
             "id": "https://JailbreakTutorials.github.io/Jailbreak-iOS-11.3.1-Tutorial-iPhone-Electra/",
             "url": "https://JailbreakTutorials.github.io/Jailbreak-iOS-11.3.1-Tutorial-iPhone-Electra/",
             "title": "Jailbreak iOS 11.3.1 Tutorial - iPhone [Electra]",
@@ -22,7 +37,7 @@
                    "iPhone Jailbreak Tutorials"
             ],
             "date_published": "2018-07-08T16:37:42+02:00",
-            "date_modified": "2018-07-08T17:03:37+02:00"
+            "date_modified": "2018-07-08T17:24:18+02:00"
         },
         {
             "id": "https://JailbreakTutorials.github.io/Jailbreak-News-iOS-11.3.1-Jailbreak-Release-in-a-few-days-Electra/",
