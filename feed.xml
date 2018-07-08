@@ -3,12 +3,30 @@
     <title>jailbreak-tutorials</title>
     <link href="https://JailbreakTutorials.github.io/feed.xml" rel="self" />
     <link href="https://JailbreakTutorials.github.io" />
-    <updated>2018-07-08T18:17:38+02:00</updated>
+    <updated>2018-07-08T18:46:31+02:00</updated>
     <author>
         <name>Jailbreak iOS &amp; tvOS Tutorials</name>
     </author>
     <id>https://JailbreakTutorials.github.io</id>
 
+    <entry>
+        <title>[Jailbreak News] iOS 11.3.1 Electra Jailbreak 1.0.1 Released - [Electra]</title>
+        <author>
+            <name>Jailbreak iOS &amp; tvOS Tutorials</name>
+        </author>
+        <link href="https://JailbreakTutorials.github.io/Jailbreak-News-iOS-11.3.1-Electra-Jailbreak-1.0.1-Released-Electra/"/>
+        <id>https://JailbreakTutorials.github.io/Jailbreak-News-iOS-11.3.1-Electra-Jailbreak-1.0.1-Released-Electra/</id>
+            <category term="Jailbreak News"/>
+
+        <updated>2018-07-08T18:45:34+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://JailbreakTutorials.github.io/media/posts/23/Jailbreak-News-iOS-11.3.1-Electra-Jailbreak-1.0.1-Released-Electra.jpg" alt="[Jailbreak News] iOS 11.3.1 Electra Jailbreak 1.0.1 Released - [Electra]" />
+                    Shortly after the iOS 11.3.1 Electra Jailbreak release, the Electra Jailbreak Developer Team released version 1.0.1 of the Electra Jailbreak for iOS 11.3.1 with some bug fixes. Electra Jailbreak Tool v1.0.1 changelog: You can find iOS 11.3.1 Jailbreak Guides for iPhone, iPad and iPod touch&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>[Jailbreak News] iOS 11.3.1 Jailbreak is Released! - [Electra]</title>
         <author>
