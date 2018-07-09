@@ -3,12 +3,32 @@
     <title>Jailbreak Tutorials</title>
     <link href="https://JailbreakTutorials.github.io/feed.xml" rel="self" />
     <link href="https://JailbreakTutorials.github.io" />
-    <updated>2018-07-09T14:54:21+02:00</updated>
+    <updated>2018-07-09T16:16:14+02:00</updated>
     <author>
         <name>Jailbreak iOS &amp; tvOS Tutorials</name>
     </author>
     <id>https://JailbreakTutorials.github.io</id>
 
+    <entry>
+        <title>Jailbreak iOS 11.3.1 Cydia Not Working - Troubleshooting Guide</title>
+        <author>
+            <name>Jailbreak iOS &amp; tvOS Tutorials</name>
+        </author>
+        <link href="https://JailbreakTutorials.github.io/jailbreak-ios-11.3.1-cydia-not-working-troubleshooting-guide/"/>
+        <id>https://JailbreakTutorials.github.io/jailbreak-ios-11.3.1-cydia-not-working-troubleshooting-guide/</id>
+            <category term="iPod touch Jailbreak Tutorials"/>
+            <category term="iPhone Jailbreak Tutorials"/>
+            <category term="iPad Jailbreak Tutorials"/>
+
+        <updated>2018-07-09T16:15:32+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://JailbreakTutorials.github.io/media/posts/26/Jailbreak-iOS-11.3.1-Cydia-Not-Working-Troubleshooting-Guide.jpg" alt="Jailbreak iOS 11.3.1 Cydia Not Working - Troubleshooting Guide" />
+                    If, after jailbreaking your iPhone, iPad or iPod touch on iOS 11.3.1 successfully, Cydia is not appearing on your Home Screen or keeps crashing, try to following tips to fix the issue: Run uicache or hard reset your iPhone or iPad. Guide to run uicache: 1. Get iPhone&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Electra iOS 11.3.1 Jailbreak Not Working - Troubleshooting Guide</title>
         <author>
